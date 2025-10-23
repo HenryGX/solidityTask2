@@ -2,6 +2,7 @@
 
 
 任务2合约地址 0xaD766ceB7af8eD6ff676a6376814fe23b4CDa4f3
+
 <img width="423" height="605" alt="image" src="https://github.com/user-attachments/assets/bcb52f55-a5c0-48de-bc78-9f7affc1ac6a" />
 
 
